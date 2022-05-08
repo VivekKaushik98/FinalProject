@@ -1,4 +1,6 @@
-# FinalProject
+# FinalProject - 
+
+<h2>Smart Parking Space Detection & Assistance System</h2>
 
 <h4>Part A - Arduino (IoT), Python and Database Module</h4>
 <br>
@@ -23,4 +25,6 @@ https://user-images.githubusercontent.com/30085103/167306217-7696199b-82bc-4254-
 
 <br> 
 <h6>
-  The Project applications can be various such as Smart Charging stations for EVs etc with scalabity to Cloud and getting insights on the basis of data collected....</h6>
+  The Project applications can be various such as Smart Charging stations for EVs etc with scalabity to Cloud and getting insights using AI and ML on the basis of data collected....</h6>
+
+       <a>Java</a>,<a> Android</a>,<a> Python</a>,<a> CRUD</a>, <a>Google Maps API</a>,<a> Arduino</a>, <a>IoT</a>,<a> OpenCV</a>,<a> Apache</a>, <a>PHP</a>, <a>MySQL</a>, <a>HTML</a>, <a>Port forwarding</a>, <a> Flask</a>
