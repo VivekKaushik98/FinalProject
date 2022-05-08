@@ -27,4 +27,6 @@ https://user-images.githubusercontent.com/30085103/167306217-7696199b-82bc-4254-
 <h6>
   The Project applications can be various such as Smart Charging stations for EVs etc with scalabity to Cloud and getting insights using AI and ML on the basis of data collected....</h6>
 
-       <a>Java</a>,<a> Android</a>,<a> Python</a>,<a> CRUD</a>, <a>Google Maps API</a>,<a> Arduino</a>, <a>IoT</a>,<a> OpenCV</a>,<a> Apache</a>, <a>PHP</a>, <a>MySQL</a>, <a>HTML</a>, <a>Port forwarding</a>, <a> Flask</a>
+  [Java], [Android],[Python],[CRUD], [Google Maps API],[Arduino],[IoT],[OpenCV],[Apache],[PHP], [MySQL], [HTML], [Port forwarding], [Flask].
+
+BTech - 2020
