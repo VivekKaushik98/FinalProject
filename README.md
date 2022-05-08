@@ -1,4 +1,4 @@
-# FinalProject - 
+# FinalProject - BTech - 2020
 
 <h2>Smart Parking Space Detection & Assistance System</h2>
 
@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/30085103/167306170-7addf9b9-be51-463b-
   <br>
  <li> a. Getting Live parking lot image and ir sensor data in mobile app.
    <li>b. Setting User and parking lot location via Google Maps API.
-     <li>c. Small java code to find nearby listed parking lot and user navigating to place using google maps..
+     <li>c. Java code to find nearby listed parking lot and user navigating to place using google maps..
  
 <br>
 
@@ -29,4 +29,4 @@ https://user-images.githubusercontent.com/30085103/167306217-7696199b-82bc-4254-
 
   [Java], [Android],[Python],[CRUD], [Google Maps API],[Arduino],[IoT],[OpenCV],[Apache],[PHP], [MySQL], [HTML], [Port forwarding], [Flask].
 
-BTech - 2020
+
